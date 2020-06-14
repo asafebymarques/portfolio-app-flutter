@@ -4,6 +4,6 @@ import 'package:myportfolio/generated/l10n.dart';
 class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Text(AppLocalizations.of(context).title_home_page);
   }
 }

@@ -33,10 +33,10 @@ class AppLocalizations {
     return Localizations.of<AppLocalizations>(context, AppLocalizations);
   }
 
-  /// `Home`
+  /// `Home EN`
   String get title_home_page {
     return Intl.message(
-      'Home',
+      'Home EN',
       name: 'title_home_page',
       desc: '',
       args: [],
@@ -50,6 +50,7 @@ class AppLocalizationDelegate extends LocalizationsDelegate<AppLocalizations> {
   List<Locale> get supportedLocales {
     return const <Locale>[
       Locale.fromSubtags(languageCode: 'en'),
+      Locale.fromSubtags(languageCode: 'pt'),
     ];
   }
 
