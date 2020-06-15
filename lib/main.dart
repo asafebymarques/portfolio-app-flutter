@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:myportfolio/src/home_page.dart';
+import 'package:myportfolio/src/home.dart';
 
 import 'generated/l10n.dart';
 

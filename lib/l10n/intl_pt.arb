@@ -1,4 +1,8 @@
 {
   "@@locale": "pt",
-  "title_home_page": "Home BR"
+  "title_home_page": "Home BR",
+  "aboutme": "Sobre mim",
+  "descabout": "Carreira desenvolvida na área de Tecnologia da Informação e Gestão Empresarial, com ampla capacitação no gerenciamento de projetos, implantação e manutenção de sistemas e gestão de equipes, planejando, avaliando e executando o desenvolvimento de novos programas, estabelecendo padrões e métodos para a organização e identificando soluções de problemas técnicos e/ou administrativos.",
+  "thankyou": "Obrigado, ",
+  "thatsallfolks": "isso é tudo, pessoal."
 }

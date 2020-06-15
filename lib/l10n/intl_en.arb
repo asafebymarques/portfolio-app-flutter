@@ -1,4 +1,8 @@
 {
   "@@locale": "en",
-  "title_home_page": "Home EN"
+  "title_home_page": "Home EN",
+  "aboutme": "About Me",
+  "descabout": "Career developed in the area of \u200B\u200BInformation Technology and Business Management, with extensive training in project management, implementation and maintenance of systems and team management, planning, evaluating and executing the development of new programs, establishing standards and methods for the organization and identifying technical and / or administrative troubleshooting.",
+  "thankyou": "Thank you, ",
+  "thatsallfolks": "that's all folks."
 }

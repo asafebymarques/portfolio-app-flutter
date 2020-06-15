@@ -21,6 +21,10 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
+    "aboutme" : MessageLookupByLibrary.simpleMessage("Sobre mim"),
+    "descabout" : MessageLookupByLibrary.simpleMessage("Carreira desenvolvida na área de Tecnologia da Informação e Gestão Empresarial, com ampla capacitação no gerenciamento de projetos, implantação e manutenção de sistemas e gestão de equipes, planejando, avaliando e executando o desenvolvimento de novos programas, estabelecendo padrões e métodos para a organização e identificando soluções de problemas técnicos e/ou administrativos."),
+    "thankyou" : MessageLookupByLibrary.simpleMessage("Obrigado, "),
+    "thatsallfolks" : MessageLookupByLibrary.simpleMessage("isso é tudo, pessoal."),
     "title_home_page" : MessageLookupByLibrary.simpleMessage("Home BR")
   };
 }

@@ -42,6 +42,46 @@ class AppLocalizations {
       args: [],
     );
   }
+
+  /// `About Me`
+  String get aboutme {
+    return Intl.message(
+      'About Me',
+      name: 'aboutme',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Career developed in the area of ​​Information Technology and Business Management, with extensive training in project management, implementation and maintenance of systems and team management, planning, evaluating and executing the development of new programs, establishing standards and methods for the organization and identifying technical and / or administrative troubleshooting.`
+  String get descabout {
+    return Intl.message(
+      'Career developed in the area of ​​Information Technology and Business Management, with extensive training in project management, implementation and maintenance of systems and team management, planning, evaluating and executing the development of new programs, establishing standards and methods for the organization and identifying technical and / or administrative troubleshooting.',
+      name: 'descabout',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Thank you, `
+  String get thankyou {
+    return Intl.message(
+      'Thank you, ',
+      name: 'thankyou',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `that's all folks.`
+  String get thatsallfolks {
+    return Intl.message(
+      'that\'s all folks.',
+      name: 'thatsallfolks',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<AppLocalizations> {
